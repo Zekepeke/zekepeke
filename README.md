@@ -5,9 +5,7 @@
 Software Engineer | AI & ML | Full-Stack Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zekepeke-181717?style=for-the-badge&logo=github)](https://github.com/Zekepeke)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esequiel_Linares-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/esequiel-linares)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zekeprojects.com-FF6B6B?style=for-the-badge)](https://www.zekeprojects.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:esequiellinares06@gmail.com)
 
 </div>
 
@@ -124,4 +122,4 @@ Data Structures & Algorithms, Computer Architecture & Assembly, Systems Programm
 
 ---
 
-**GitHub:** [@Zekepeke](https://github.com/Zekepeke) | **LinkedIn:** [linkedin.com/in/esequiel-linares](https://linkedin.com/in/esequiel-linares) | **Email:** [esequiellinares06@gmail.com](mailto:esequiellinares06@gmail.com)
+**GitHub:** [@Zekepeke](https://github.com/Zekepeke)
